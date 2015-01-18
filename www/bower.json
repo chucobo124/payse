@@ -1,0 +1,35 @@
+{
+  "name": "Payse",
+  "version": "0.0.1",
+  "homepage": "https://github.com/n0m4dz/payse",
+  "authors": [
+    "Lucas",
+    "Tseegii"
+  ],
+  "description": "An easy payment syste",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "Payment",
+    "app",
+    "mobile",
+    "app"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.9"
+  }
+}
